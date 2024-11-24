@@ -4,7 +4,7 @@
 using namespace std;
 
 const int SIZE = 9;
-
+// jai shri ram
 // Function to print the Sudoku grid
 void printBoard(const vector<vector<int>>& board) {
     for (int i = 0; i < SIZE; ++i) {
